@@ -11,7 +11,7 @@ Displays a pseudorandom message from a database of quotations
 `$ docker build -t macabees/fortune:latest .`
 
 ## Docker Push
-`$ docker push -t macabees/aafire:latest`
+`$ docker push -t macabees/fortune:latest`
 
 Note: requires `docker login`
 
